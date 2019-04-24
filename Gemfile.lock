@@ -132,7 +132,11 @@ GEM
     regexp_parser (1.4.0)
     rspec-core (3.8.0)
       rspec-support (~> 3.8.0)
+<<<<<<< HEAD
     rspec-expectations (3.8.3)
+=======
+    rspec-expectations (3.8.2)
+>>>>>>> 23018efbcc171630ed703d946cc9b55bee09cf49
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
     rspec-mocks (3.8.0)
